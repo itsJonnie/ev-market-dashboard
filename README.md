@@ -2,7 +2,7 @@
 
 > **Interactive Porter's Five Forces Analysis of the Global Electric Vehicle Industry**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)](https://your-ev-dashboard-url.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)](https://ev-market-dashboard.vercel.app/)
 [![React](https://img.shields.io/badge/React-18.0-blue)](https://reactjs.org/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-3.0-38B2AC)](https://tailwindcss.com/)
 
@@ -41,7 +41,7 @@ This interactive dashboard presents a comprehensive strategic analysis of the gl
 
 ## 🚀 Live Demo
 
-**[📱 View Live Dashboard](https://your-ev-dashboard-url.com)**
+**[📱 View Live Dashboard](https://ev-market-dashboard.vercel.app/)**
 
 Navigate through different sections:
 - **Overview**: Market size and growth projections
