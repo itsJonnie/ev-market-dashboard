@@ -133,15 +133,6 @@ ev-market-dashboard/
 - **Strategic Insights**: Actionable recommendations
 - **MBB Standards**: Consulting-grade deliverable
 
-## 📞 Contact
-
-Part of the **Elite Consulting Portfolio** for MSBA applications and MBB recruiting.
-
-- 📧 **Email**: [your.email@example.com]
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile]
-- 🌐 **Portfolio**: [your-portfolio-url.com]
-
----
 
 *Demonstrating strategic analysis capabilities for top-tier consulting and business school applications.*
 
